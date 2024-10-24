@@ -2,17 +2,17 @@
 
 **Project Overview:**
 
-This project simulates the responsibilities of an HR Analyst at PwC, focusing on leveraging data analytics to enhance HR decision-making and improve workforce management. The simulation provides participants with hands-on experience in analyzing HR metrics, developing insights, and presenting findings to stakeholders.
+This project simulates the responsibilities of an HR Analyst at PwC, focusing on leveraging data analytics to enhance HR decision-making and improve workforce management. The simulation provided hands-on experience in analyzing HR metrics, developing insights, and presenting findings to stakeholders.
 
 **Objectives:**
 
-1. **Data Analysis:** Participants will analyze employee data sets to identify trends in recruitment, retention, and employee performance.
+1. **Data Analysis:** Analyzed employee data sets to identify trends in recruitment, retention, and employee performance.
   
-2. **Reporting:** Create comprehensive reports that summarize key findings, using data visualization tools to enhance clarity and impact.
+2. **Reporting:** Created comprehensive reports that summarize key findings, using data visualization tools to enhance clarity and impact.
   
-3. **Decision Support:** Develop actionable recommendations based on data insights to support HR initiatives and drive organizational effectiveness.
+3. **Decision Support:** Developd actionable recommendations based on data insights to support HR initiatives and drive organizational effectiveness.
   
-4. **Stakeholder Presentation:** Simulate presenting findings to senior management, honing communication skills and the ability to translate complex data into strategic insights.
+4. **Stakeholder Presentation:** Presented findings to senior management, honing communication skills and the ability to translate complex data into strategic insights.
 
 
 ![Screenshot 2024-10-24 194910](https://github.com/user-attachments/assets/6cad85c8-ac03-4910-837f-20237ce6f2cb)
@@ -27,5 +27,5 @@ This project simulates the responsibilities of an HR Analyst at PwC, focusing on
 - Enhanced ability to analyze and interpret HR data.
 - Improved skills in reporting and data visualization.
 - Greater understanding of the strategic role of HR analytics in business decision-making.
-- Experience in presenting analytical findings to non-technical audiences.
+- Experienced presenting analytical findings to non-technical audiences.
 
